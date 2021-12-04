@@ -8,7 +8,7 @@ Commence the program
 ### Step 2: 
 Enter the values from the user
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula![GitHub Logo](formula.jpg)
 ### Step 4: 
 Execute the result
 ### Step 5: 
