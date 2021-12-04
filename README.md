@@ -8,7 +8,7 @@ Commence the program
 ### Step 2: 
 Enter the values from the user
 ### Step 3: 
-Substitute the values in the distance formula ![formula](/formula.jpg)
+Substitute the values in the distance formula d=√((x_2-x_1)²+(y_2-y_1)²)
 ### Step 4: 
 Execute the result
 ### Step 5: 
